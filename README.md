@@ -20,4 +20,9 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
+| [1143-longest-common-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1143-longest-common-subsequence) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
