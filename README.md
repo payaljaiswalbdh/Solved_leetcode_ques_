@@ -20,12 +20,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0072-edit-distance) |
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
 | [1092-shortest-common-supersequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1143-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0072-edit-distance) |
 | [1092-shortest-common-supersequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1143-longest-common-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3517-smallest-palindromic-rearrangement-i) |
