@@ -14,6 +14,7 @@
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
