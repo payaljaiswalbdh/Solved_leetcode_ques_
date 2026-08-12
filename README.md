@@ -9,6 +9,7 @@
 | [0474-ones-and-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0474-ones-and-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0746-min-cost-climbing-stairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3731-find-missing-elements) |
 ## Math
@@ -65,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0474-ones-and-zeroes) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
