@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0073-set-matrix-zeroes) |
 | [0187-repeated-dna-sequences](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0904-fruit-into-baskets) |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0187-repeated-dna-sequences) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
