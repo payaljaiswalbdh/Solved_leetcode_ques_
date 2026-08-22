@@ -52,6 +52,7 @@
 | [0072-edit-distance](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0072-edit-distance) |
 | [0187-repeated-dna-sequences](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0187-repeated-dna-sequences) |
 | [0392-is-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0474-ones-and-zeroes) |
@@ -155,4 +156,12 @@
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
