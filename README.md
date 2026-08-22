@@ -57,6 +57,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0474-ones-and-zeroes) |
+| [0567-permutation-in-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1143-longest-common-subsequence) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0647-palindromic-substrings) |
 ## Breadth-First Search
 |  |
@@ -84,6 +86,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -123,6 +126,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
