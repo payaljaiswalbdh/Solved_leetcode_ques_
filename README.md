@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
+| [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
+| [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -171,4 +173,12 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0394-decode-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
