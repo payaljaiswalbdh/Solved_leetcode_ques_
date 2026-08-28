@@ -51,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0072-edit-distance) |
 | [0187-repeated-dna-sequences](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0187-repeated-dna-sequences) |
+| [0257-binary-tree-paths](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -99,6 +100,7 @@
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -112,6 +114,7 @@
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
 ## Enumeration
 |  |
@@ -184,9 +187,14 @@
 | ------- |
 | [0100-same-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
