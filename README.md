@@ -75,6 +75,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
 ## Enumeration
 |  |
@@ -176,6 +179,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
