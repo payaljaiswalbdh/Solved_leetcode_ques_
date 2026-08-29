@@ -10,6 +10,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0474-ones-and-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0746-min-cost-climbing-stairs) |
@@ -43,6 +44,7 @@
 | [0322-coin-change](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0746-min-cost-climbing-stairs) |
@@ -127,10 +129,12 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0474-ones-and-zeroes) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0474-ones-and-zeroes) |
 ## Sliding Window
 |  |
