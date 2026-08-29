@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0322-coin-change) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
 | [0322-coin-change](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0322-coin-change) |
@@ -175,6 +177,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0053-maximum-subarray) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Stack
 |  |
