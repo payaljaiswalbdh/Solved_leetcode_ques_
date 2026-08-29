@@ -35,6 +35,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
 | [0322-coin-change](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0322-coin-change) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0072-edit-distance) |
 | [0187-repeated-dna-sequences](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0257-binary-tree-paths) |
@@ -196,5 +198,10 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0257-binary-tree-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
