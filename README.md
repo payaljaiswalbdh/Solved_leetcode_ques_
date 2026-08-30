@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0416-partition-equal-subset-sum) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
