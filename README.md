@@ -92,6 +92,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0424-longest-repeating-character-replacement) |
@@ -213,4 +214,16 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
