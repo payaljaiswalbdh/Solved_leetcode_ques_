@@ -1,44 +1,51 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
+   public List<List<Integer>> levelOrder(TreeNode root) {
 
-    // Find height of tree
-    int height(TreeNode root) {
-        if (root == null)
-            return 0;
+    Queue<TreeNode> q = new LinkedList<>();
+    List<List<Integer>> res = new ArrayList<>();
 
-        return 1 + Math.max(height(root.left),height(root.right));
-    }
+    if (root == null)
+        return res;
 
-    // Print/store nodes of a particular level
-    void printLevel(TreeNode root, int curr, int targetLevel,
-                    List<Integer> list) {
+    q.offer(root);
 
-        if (root == null)
-            return;
+    while (!q.isEmpty()) {
 
-        if (curr == targetLevel) {
-            list.add(root.val);
-            return;
+        int size = q.size();
+
+        List<Integer> level = new ArrayList<>();
+
+        for (int i = 0; i < size; i++) {
+
+            TreeNode temp = q.poll();
+
+            level.add(temp.val);
+
+            if (temp.left != null)
+                q.offer(temp.left);
+
+            if (temp.right != null)
+                q.offer(temp.right);
         }
 
-        printLevel(root.left, curr + 1, targetLevel, list);
-        printLevel(root.right, curr + 1, targetLevel, list);
+        res.add(level);
     }
 
-    public List<List<Integer>> levelOrder(TreeNode root) {
-
-        List<List<Integer>> result = new ArrayList<>();
-
-        if (root == null)
-            return result;
-
-        int h = height(root);
-
-        for (int i = 1; i <= h; i++) {
-            List<Integer> level = new ArrayList<>();
-            printLevel(root, 1, i, level);
-            result.add(level);
-        }
-
-        return result;
-    }
+    return res;
+}
 }
