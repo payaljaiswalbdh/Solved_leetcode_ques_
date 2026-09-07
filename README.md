@@ -7,6 +7,7 @@
 | [0041-first-missing-positive](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0209-minimum-size-subarray-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0322-coin-change) |
@@ -96,6 +97,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -113,6 +115,7 @@
 | [0100-same-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0144-binary-tree-preorder-traversal) |
@@ -134,6 +137,7 @@
 | [0100-same-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0144-binary-tree-preorder-traversal) |
@@ -205,6 +209,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Stack
 |  |
