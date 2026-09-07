@@ -127,12 +127,14 @@
 | [0437-path-sum-iii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
 | [0209-minimum-size-subarray-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0209-minimum-size-subarray-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
@@ -152,6 +154,7 @@
 | [0437-path-sum-iii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
