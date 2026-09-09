@@ -124,6 +124,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
@@ -135,6 +136,7 @@
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0209-minimum-size-subarray-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -153,6 +155,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
@@ -244,6 +247,7 @@
 | [0113-path-sum-ii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0543-diameter-of-binary-tree) |
