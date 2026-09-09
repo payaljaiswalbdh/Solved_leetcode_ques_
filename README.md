@@ -9,6 +9,7 @@
 | [0073-set-matrix-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0322-coin-change) |
@@ -120,6 +121,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0144-binary-tree-preorder-traversal) |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -155,6 +158,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0144-binary-tree-preorder-traversal) |
@@ -234,6 +238,7 @@
 | [0053-maximum-subarray](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Stack
 |  |
