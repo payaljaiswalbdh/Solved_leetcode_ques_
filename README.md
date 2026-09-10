@@ -125,6 +125,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0199-binary-tree-right-side-view) |
@@ -168,6 +169,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0199-binary-tree-right-side-view) |
@@ -252,6 +254,7 @@
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0394-decode-string) |
@@ -268,6 +271,7 @@
 | [0101-symmetric-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -293,6 +297,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0146-lru-cache) |
 ## Design
 |  |
