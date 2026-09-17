@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0072-edit-distance) |
 | [0187-repeated-dna-sequences](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0187-repeated-dna-sequences) |
