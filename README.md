@@ -33,12 +33,14 @@
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0628-maximum-product-of-three-numbers) |
+| [0899-orderly-queue](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0899-orderly-queue) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0628-maximum-product-of-three-numbers) |
+| [0899-orderly-queue](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0899-orderly-queue) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3731-find-missing-elements) |
@@ -79,6 +81,7 @@
 | [0474-ones-and-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0647-palindromic-substrings) |
+| [0899-orderly-queue](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0899-orderly-queue) |
 | [1092-shortest-common-supersequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1143-longest-common-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -326,4 +329,8 @@
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
