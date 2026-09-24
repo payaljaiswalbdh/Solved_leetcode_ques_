@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0012-integer-to-roman) |
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0628-maximum-product-of-three-numbers) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0072-edit-distance) |
 | [0187-repeated-dna-sequences](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0187-repeated-dna-sequences) |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
