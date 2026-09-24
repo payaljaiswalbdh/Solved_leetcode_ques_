@@ -84,6 +84,7 @@
 | [0899-orderly-queue](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0899-orderly-queue) |
 | [1092-shortest-common-supersequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1143-longest-common-subsequence) |
+| [1544-make-the-string-great](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -272,6 +273,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0394-decode-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1544-make-the-string-great](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1544-make-the-string-great) |
 ## Recursion
 |  |
 | ------- |
