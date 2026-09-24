@@ -85,11 +85,13 @@
 | [1092-shortest-common-supersequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1143-longest-common-subsequence) |
 | [1544-make-the-string-great](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1544-make-the-string-great) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
