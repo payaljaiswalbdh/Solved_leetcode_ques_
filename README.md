@@ -79,6 +79,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0474-ones-and-zeroes) |
+| [0520-detect-capital](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0647-palindromic-substrings) |
 | [0899-orderly-queue](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0899-orderly-queue) |
