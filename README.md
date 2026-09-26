@@ -21,6 +21,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0904-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0944-delete-columns-to-make-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -83,6 +84,7 @@
 | [0567-permutation-in-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0647-palindromic-substrings) |
 | [0899-orderly-queue](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0899-orderly-queue) |
+| [0944-delete-columns-to-make-sorted](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0944-delete-columns-to-make-sorted) |
 | [1092-shortest-common-supersequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1143-longest-common-subsequence) |
 | [1544-make-the-string-great](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1544-make-the-string-great) |
@@ -338,4 +340,8 @@
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0899-orderly-queue) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
