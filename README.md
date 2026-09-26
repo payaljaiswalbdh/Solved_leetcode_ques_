@@ -90,6 +90,7 @@
 | [1544-make-the-string-great](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1544-make-the-string-great) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -103,6 +104,7 @@
 | [0443-string-compression](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0647-palindromic-substrings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -344,4 +346,8 @@
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0944-delete-columns-to-make-sorted) |
+## Greedy
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
