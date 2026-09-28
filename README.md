@@ -85,6 +85,7 @@
 | [0520-detect-capital](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0647-palindromic-substrings) |
+| [0859-buddy-strings](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0859-buddy-strings) |
 | [0899-orderly-queue](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0899-orderly-queue) |
 | [0944-delete-columns-to-make-sorted](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0944-delete-columns-to-make-sorted) |
 | [1092-shortest-common-supersequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1092-shortest-common-supersequence) |
@@ -133,6 +134,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0567-permutation-in-string) |
+| [0859-buddy-strings](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0904-fruit-into-baskets) |
 | [1657-determine-if-two-strings-are-close](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1832-check-if-the-sentence-is-pangram) |
