@@ -14,6 +14,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0474-ones-and-zeroes) |
@@ -40,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0899-orderly-queue](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0899-orderly-queue) |
@@ -102,6 +104,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0347-top-k-frequent-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -132,6 +135,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0187-repeated-dna-sequences) |
+| [0347-top-k-frequent-elements](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -281,6 +285,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Stack
 |  |
@@ -361,4 +366,16 @@
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
