@@ -18,6 +18,7 @@
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0474-ones-and-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0746-min-cost-climbing-stairs) |
@@ -294,6 +295,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-make-the-string-great](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1544-make-the-string-great) |
 ## Recursion
@@ -353,6 +355,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Lexicographically Minimal String Rotation
 |  |
