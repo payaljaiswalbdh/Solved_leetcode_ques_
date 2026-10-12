@@ -387,6 +387,7 @@
 | [0178-rank-scores](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0511-game-play-analysis-i) |
