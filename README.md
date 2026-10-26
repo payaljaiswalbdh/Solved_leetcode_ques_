@@ -35,6 +35,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0012-integer-to-roman) |
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
+| [0279-perfect-squares](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0899-orderly-queue](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0899-orderly-queue) |
@@ -58,6 +59,7 @@
 | [0072-edit-distance](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0120-triangle) |
+| [0279-perfect-squares](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0392-is-subsequence) |
@@ -124,6 +126,7 @@
 | [0101-symmetric-tree](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
@@ -226,6 +229,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0474-ones-and-zeroes) |
 ## 0-1 Knapsack
@@ -409,4 +413,8 @@
 | [1327-list-the-products-ordered-in-a-period](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1527-patients-with-a-condition](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1587-bank-account-summary-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
