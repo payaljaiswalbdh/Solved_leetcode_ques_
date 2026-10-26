@@ -407,4 +407,5 @@
 | [1075-project-employees-i](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1075-project-employees-i) |
 | [1280-students-and-examinations](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1527-patients-with-a-condition](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
