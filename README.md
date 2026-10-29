@@ -414,6 +414,7 @@
 | [1527-patients-with-a-condition](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1587-bank-account-summary-ii) |
+| [1693-daily-leads-and-partners](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1693-daily-leads-and-partners) |
 ## Complete Knapsack
 |  |
 | ------- |
