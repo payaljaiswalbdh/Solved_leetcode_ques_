@@ -417,6 +417,7 @@
 | [1587-bank-account-summary-ii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1693-daily-leads-and-partners) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Complete Knapsack
 |  |
 | ------- |
