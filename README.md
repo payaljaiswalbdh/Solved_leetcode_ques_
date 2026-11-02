@@ -425,6 +425,7 @@
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1873-calculate-special-bonus) |
+| [1965-employees-with-missing-information](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1965-employees-with-missing-information) |
 ## Complete Knapsack
 |  |
 | ------- |
