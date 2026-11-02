@@ -426,6 +426,7 @@
 | [1741-find-total-time-spent-by-each-employee](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1873-calculate-special-bonus) |
 | [1965-employees-with-missing-information](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1965-employees-with-missing-information) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Complete Knapsack
 |  |
 | ------- |
