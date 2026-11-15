@@ -26,6 +26,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0944-delete-columns-to-make-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -39,6 +40,7 @@
 | [0368-largest-divisible-subset](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0899-orderly-queue](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0899-orderly-queue) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
@@ -70,6 +72,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0746-min-cost-climbing-stairs) |
 | [1092-shortest-common-supersequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1143-longest-common-subsequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## String
 |  |
@@ -257,6 +260,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
