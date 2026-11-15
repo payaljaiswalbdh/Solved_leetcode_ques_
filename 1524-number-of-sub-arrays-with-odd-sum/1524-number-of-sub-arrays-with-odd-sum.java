@@ -32,7 +32,7 @@ class Solution {
     //     return (int) count;
 
 
- //approach 1 : Prefix Sum + Parity Counting approach without using a prefix array having tc o(n) and sc O(1)
+ //approach 2 : Prefix Sum + Parity Counting approach without using a prefix array having tc o(n) and sc O(1)
   int mod = 1000000007;
 
         long count = 0;
