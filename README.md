@@ -431,6 +431,7 @@
 | [1965-employees-with-missing-information](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3570-find-books-with-no-available-copies](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/3570-find-books-with-no-available-copies) |
 ## Complete Knapsack
 |  |
 | ------- |
