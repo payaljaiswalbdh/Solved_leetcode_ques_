@@ -403,6 +403,7 @@
 | [0196-delete-duplicate-emails](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/payaljaiswalbdh/Solved_leetcode_ques_/tree/master/0596-classes-with-at-least-5-students) |
